@@ -4,7 +4,7 @@ import { AreaFooter } from "./styled";
 function Footer(){
     return(
         <AreaFooter>
-        Todos os direitos reservados
+        Construido por @ymaninho54
         </AreaFooter>
     )
 }

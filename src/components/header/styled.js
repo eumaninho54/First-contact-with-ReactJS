@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const AreaHeader = styled.div`
     height: 60px;
     color: aliceblue;
-    background-image: linear-gradient(to right,#3364F5, #193075 );
+    background-color: transparent;
 
     .container{
         padding: 5px 20px;

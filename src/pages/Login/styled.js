@@ -64,3 +64,9 @@ export const AreaLogin = styled.div `
         }
     }
 `
+
+export const Bg = styled.div`
+    background: url('imgs/1015184_00001.jpg') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0 0 100px;  
+`

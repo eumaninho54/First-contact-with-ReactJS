@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
 export const AreaPage = styled.div`
-    background-color: yellow;
     color: blue;
 
     h1{

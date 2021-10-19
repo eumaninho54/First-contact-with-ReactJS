@@ -13,9 +13,8 @@ function Header(){
 
                 <nav>
                     <ul>
-                        <li><Link to="/">Início</Link></li>
-                        <li><Link to="/config">Configurações</Link></li>
-                        <li>Sair</li>
+                        <li><Link to="/">Sobre</Link></li>
+                        <li><Link to="/login">Login</Link></li>
                     </ul>
                 </nav>
             </div>
