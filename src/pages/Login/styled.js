@@ -55,18 +55,6 @@ export const AreaLogin = styled.div `
         }
     }
 
-    [data-anime]{
-        opacity: 1;
-        transition: 0.7s;
-        transform: translate3d(0, 0px,0);
-    }
-
-    .animate{
-            opacity: 1;
-            transform: translate3d(0, 0 ,0);
-            color: green;
-        }
-
     .organize{
         display: flex;
 
@@ -75,5 +63,4 @@ export const AreaLogin = styled.div `
             margin-right: 10px;
         }
     }
-
 `
