@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/First-contact-with-ReactJS/static/css/main.580de342.chunk.css",
-    "main.js": "/First-contact-with-ReactJS/static/js/main.0d66b875.chunk.js",
-    "main.js.map": "/First-contact-with-ReactJS/static/js/main.0d66b875.chunk.js.map",
+    "main.js": "/First-contact-with-ReactJS/static/js/main.fbef8713.chunk.js",
+    "main.js.map": "/First-contact-with-ReactJS/static/js/main.fbef8713.chunk.js.map",
     "runtime-main.js": "/First-contact-with-ReactJS/static/js/runtime-main.01d1976b.js",
     "runtime-main.js.map": "/First-contact-with-ReactJS/static/js/runtime-main.01d1976b.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/First-contact-with-ReactJS/static/css/2.7fc9bc2b.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.c7f0bf96.chunk.js",
     "static/css/main.580de342.chunk.css",
-    "static/js/main.0d66b875.chunk.js"
+    "static/js/main.fbef8713.chunk.js"
   ]
 }
