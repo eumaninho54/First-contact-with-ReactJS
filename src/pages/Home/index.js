@@ -29,7 +29,7 @@ export default () => {
                 <section id='section_0'>
                     <article id='article0_left' className='article0'>
                         <h1 data-aos='fade'>O que é React?</h1>
-                            <p data-aos='fade-right'>React JS é uma biblioteca JavaScript para a criação de interfaces de 
+                            <p data-aos='fade'>React JS é uma biblioteca JavaScript para a criação de interfaces de 
                             usuário. Criado em 2011 pelo time do Facebook, o React surgiu com o 
                             objetivo de otimizar a atualização e a sincronização de atividades 
                             simultâneas no feed de notícias da rede social, entre eles chat, status, 
@@ -40,7 +40,7 @@ export default () => {
 
                     <article id='article0_right' className='article0'>
                         <h1 data-aos='fade'>Biblioteca ou Framework?</h1>
-                            <p data-aos='fade-left'>Segundo seu slogan oficial, React é uma biblioteca para construção de 
+                            <p data-aos='fade'>Segundo seu slogan oficial, React é uma biblioteca para construção de 
                             interfaces de usuário. React não é um framework – nem mesmo é exclusivo 
                             para web. É utilizado com outras bibliotecas para renderização em certos 
                             ambientes. Por exemplo, React Native pode ser usado para construção de 
@@ -74,7 +74,7 @@ export default () => {
                             (ou User Interfaces, as UIs) é por meio da quebra de toda a estrutura da aplicação em 
                             componentes.</p>
                     </article>
-                        <img data-aos='zoom-out' src={img_140} alt='code_img'></img>
+                        <img data-aos='zoom-out-right' src={img_140} alt='code_img'></img>
                 </section>
             </MainHome>
             

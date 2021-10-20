@@ -4,6 +4,8 @@ import { BtnDefaultIcons, BtnDefault } from "../../components/styled";
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 
+import $ from 'jquery'
+
 import { BrowserRouter, Switch, Route, Link } from 'react-router-dom'
 
 
@@ -23,10 +25,10 @@ export default () => {
     return(
         <BrowserRouter>
             <Switch>
-                <Route exact path="/registrar">
+                <Route exact path="/First-contact-with-ReactJS/registrar">
                     <div data-aos='fade'>
                         <AreaLogin>
-                            <h1 className='organize'><Link to="/"><ArrowBackIosNewIcon/></Link> Crie sua conta</h1>
+                            <h1 className='organize'><Link to="/First-contact-with-ReactJS/login"><ArrowBackIosNewIcon/></Link> Crie sua conta</h1>
                             <p>Crie sua conta, é grátis!</p>
                             <form>
                                 <div className="form_input">
@@ -47,7 +49,7 @@ export default () => {
                                 </BtnDefault>
                                 <div className="footerLogin">
                                     Já possui uma conta?
-                                    <Link to='/'>Faça login</Link>
+                                    <Link to='/First-contact-with-ReactJS/login'>Faça login</Link>
                         
                                 </div>
                             </form>
@@ -55,7 +57,7 @@ export default () => {
                     </div>
                 </Route>
 
-                <Route path="*">
+                <Route path="/First-contact-with-ReactJS/login">
                     <Bg>
                         <div data-aos='fade-up'>
                             <AreaLogin>
@@ -84,7 +86,7 @@ export default () => {
                                     </BtnDefault>
                                     <div className="footerLogin">
                                         Não tem uma conta?
-                                        <Link to='/registrar'>Registre-se</Link>
+                                        <Link to='/First-contact-with-ReactJS/registrar'>Registre-se</Link>
                                     </div>
                                 </form>
                             </AreaLogin>

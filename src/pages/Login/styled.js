@@ -11,6 +11,7 @@ export const AreaLogin = styled.div `
     box-shadow: 0px 0px 10px #ccc;
     color: black;
     transition: 0.7s;
+    margin-bottom: 100px;
 
     p{
         color: rgba(100, 100, 100, 0.675);
