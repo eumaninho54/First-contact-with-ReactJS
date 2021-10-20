@@ -51,7 +51,7 @@ export default () => {
 
                 <section id='section_1'>
                     <article>
-                        <h1 data-aos='slide-down'>Por Que Usar React?</h1>  
+                        <h1 data-aos='slide-right'>Por Que Usar React?</h1>  
                             <p data-aos='fade-right'>O React tem sido usado por grandes companhias ao redor do mundo. 
                                 Algumas delas:</p>
                             <ul data-aos='fade-right'>
@@ -64,7 +64,7 @@ export default () => {
                                 <li>Instagram</li>
                             </ul>
                     </article>
-                        <img data-aos='zoom-out' id='img_redes' src={redes_img} alt='img_redes'></img>
+                        <img data-aos='fade-up' id='img_redes' src={redes_img} alt='img_redes'></img>
                 </section>
 
                 <section id='section_2'>
