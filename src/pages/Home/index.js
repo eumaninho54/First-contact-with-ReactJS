@@ -4,10 +4,10 @@ import { BrowserRouter, Switch, Route, Link } from 'react-router-dom'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 
-import img_react from './imgs/react.png'
-import framework_img from './imgs/framework1_00000.png'
-import img_140 from './imgs/140_00000.png'
-import redes_img from './imgs/redes_00000.png'
+import img_react from '../../components/header/imgs/react.png'
+import framework_img from '../../components/header/imgs/framework1_00000.png'
+import img_140 from '../../components/header/imgs/140_00000.png'
+import redes_img from '../../components/header/imgs/redes_00000.png'
 
 
 
@@ -70,7 +70,7 @@ export default () => {
                 <section id='section_2'>
                     <article>
                         <h1 data-aos='zoom-out'>React é flexível: tudo é componente</h1>
-                        <p data-aos='fade-right'>Uma das bases do React. O modo como o React trabalha para criar interfaces de usuário 
+                        <p data-aos='zoom-out'>Uma das bases do React. O modo como o React trabalha para criar interfaces de usuário 
                             (ou User Interfaces, as UIs) é por meio da quebra de toda a estrutura da aplicação em 
                             componentes.</p>
                     </article>

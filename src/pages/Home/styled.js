@@ -66,6 +66,7 @@ export const MainHome = styled.main`
             color: #9BA9B4 ;
             font-family: 'Nunito Sans', sans-serif;
             font-size: 20px;
+            
         }
     }
 
@@ -152,7 +153,6 @@ export const MainHome = styled.main`
             width: 40%;
             max-width: 600px;
             align-self: center;
-            margin-left: 1%;
             margin-top: -80px;
         }
     }

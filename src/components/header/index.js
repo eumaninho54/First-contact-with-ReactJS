@@ -19,8 +19,8 @@ function Header(){
 
                 <nav>
                     <ul>
-                        <li><Link to="/">Sobre</Link></li>
-                        <li><Link to="/login">Login</Link></li>
+                        <li><Link to="/First-contact-with-ReactJS">Sobre</Link></li>
+                        <li><Link to="/First-contact-with-ReactJS/login">Login</Link></li>
                     </ul>
                 </nav>
             </div>
