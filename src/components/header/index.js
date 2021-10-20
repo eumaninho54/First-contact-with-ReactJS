@@ -6,9 +6,11 @@ function Header(){
     return(
         <AreaHeader>
             <div className="container">
-                <img className="icone" src="../../../list_icone.png" />
+
+                <img className="icone" alt='img_menu' src="../../../list_icone.png" />
+
                 <div className="logo">
-                    <img className="logo" src="../../../LogoManin.png" />
+                    <img className="logo" alt='logo_Manin' src="../../../LogoManin.png" />
                 </div>
 
                 <nav>
