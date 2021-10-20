@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/First-contact-with-ReactJS/static/css/main.074b5c1e.chunk.css",
-    "main.js": "/First-contact-with-ReactJS/static/js/main.a8d80055.chunk.js",
-    "main.js.map": "/First-contact-with-ReactJS/static/js/main.a8d80055.chunk.js.map",
+    "main.js": "/First-contact-with-ReactJS/static/js/main.ab5be3d5.chunk.js",
+    "main.js.map": "/First-contact-with-ReactJS/static/js/main.ab5be3d5.chunk.js.map",
     "runtime-main.js": "/First-contact-with-ReactJS/static/js/runtime-main.01d1976b.js",
     "runtime-main.js.map": "/First-contact-with-ReactJS/static/js/runtime-main.01d1976b.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/First-contact-with-ReactJS/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.1f4b057f.chunk.js": "/First-contact-with-ReactJS/static/js/2.1f4b057f.chunk.js",
-    "static/js/2.1f4b057f.chunk.js.map": "/First-contact-with-ReactJS/static/js/2.1f4b057f.chunk.js.map",
+    "static/js/2.c3ea9e69.chunk.js": "/First-contact-with-ReactJS/static/js/2.c3ea9e69.chunk.js",
+    "static/js/2.c3ea9e69.chunk.js.map": "/First-contact-with-ReactJS/static/js/2.c3ea9e69.chunk.js.map",
     "index.html": "/First-contact-with-ReactJS/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/First-contact-with-ReactJS/static/css/2.7fc9bc2b.chunk.css.map",
     "static/css/main.074b5c1e.chunk.css.map": "/First-contact-with-ReactJS/static/css/main.074b5c1e.chunk.css.map",
-    "static/js/2.1f4b057f.chunk.js.LICENSE.txt": "/First-contact-with-ReactJS/static/js/2.1f4b057f.chunk.js.LICENSE.txt",
+    "static/js/2.c3ea9e69.chunk.js.LICENSE.txt": "/First-contact-with-ReactJS/static/js/2.c3ea9e69.chunk.js.LICENSE.txt",
     "static/media/140_00000.163651a8.png": "/First-contact-with-ReactJS/static/media/140_00000.163651a8.png",
     "static/media/LogoManin.6cf5d10e.png": "/First-contact-with-ReactJS/static/media/LogoManin.6cf5d10e.png",
     "static/media/framework1_00000.b894175a.png": "/First-contact-with-ReactJS/static/media/framework1_00000.b894175a.png",
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.01d1976b.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.1f4b057f.chunk.js",
+    "static/js/2.c3ea9e69.chunk.js",
     "static/css/main.074b5c1e.chunk.css",
-    "static/js/main.a8d80055.chunk.js"
+    "static/js/main.ab5be3d5.chunk.js"
   ]
 }
