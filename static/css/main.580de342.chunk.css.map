@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,oEAAwE,CACxE,wBAGF","file":"main.580de342.chunk.css","sourcesContent":["body{\r\n  margin: 0;\r\n  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;\r\n  background-color: rgb(14, 14, 14);\r\n\r\n  \r\n}"]}
