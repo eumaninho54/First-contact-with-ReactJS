@@ -1,7 +1,7 @@
 {
   "name": "aula1",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage" : "First-contact-with-ReactJS/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.4.1",
