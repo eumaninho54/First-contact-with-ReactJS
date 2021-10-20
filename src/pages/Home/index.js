@@ -4,6 +4,11 @@ import { BrowserRouter, Switch, Route, Link } from 'react-router-dom'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 
+import img_react from './imgs/react.png'
+import framework_img from './imgs/framework1_00000.png'
+import img_140 from './imgs/140_00000.png'
+import redes_img from './imgs/redes_00000.png'
+
 
 
 // eslint-disable-next-line import/no-anonymous-default-export
@@ -17,7 +22,7 @@ export default () => {
             <HeaderHome>
                 <h1 data-aos='fade-down'>A page foi construída em <span className='font_high'>ReactJs</span></h1>
                 <p data-aos='fade'>Primeira experiência com a blibioteca</p>
-                <img data-aos='fade' src='react.png' id='ReactJs_img' alt='image_logo_reactjs'></img>
+                <img data-aos='fade' src={img_react} id='ReactJs_img' alt='image_logo_reactjs'></img>
             </HeaderHome>
 
             <MainHome>
@@ -31,7 +36,7 @@ export default () => {
                             listagem de contatos e outros.</p>
                     </article>
 
-                        <img data-aos='fade' src='framework1_00000.png' alt='lib_react'></img>
+                        <img data-aos='fade' src={framework_img} alt='lib_react'></img>
 
                     <article id='article0_right' className='article0'>
                         <h1 data-aos='fade'>Biblioteca ou Framework?</h1>
@@ -59,7 +64,7 @@ export default () => {
                                 <li>Instagram</li>
                             </ul>
                     </article>
-                        <img data-aos='zoom-out' id='img_redes' src='redes_00000.png' alt='img_redes'></img>
+                        <img data-aos='zoom-out' id='img_redes' src={redes_img} alt='img_redes'></img>
                 </section>
 
                 <section id='section_2'>
@@ -69,7 +74,7 @@ export default () => {
                             (ou User Interfaces, as UIs) é por meio da quebra de toda a estrutura da aplicação em 
                             componentes.</p>
                     </article>
-                        <img data-aos='zoom-out' src='140_00000.png' alt='code_img'></img>
+                        <img data-aos='zoom-out' src={img_140} alt='code_img'></img>
                 </section>
             </MainHome>
             
